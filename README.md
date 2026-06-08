@@ -2,13 +2,13 @@
 
 This is a multi-layered epic fantasy centered around the laws of reality, interdimensional contamination, and the survival of civilization.
 
-The universe is divided into four independent realms: the Divine Realm, the Mortal Realm, the Demon Realm, and the Spirit Realm. These worlds were never meant to interact. Each realm exists according to its own fundamental laws, separated by boundaries that preserve the stability of reality itself.
+The universe is divided into four independent realms: the Divine Realm, the Mortal Realm, the Demon Realm, and the Spirit Realm. These worlds were never meant to interact. Each realm exists accordi[...]
 
-Crossing those boundaries is considered a violation of the world's natural order. Every interdimensional intervention leaves invisible scars upon reality. Over countless ages, those scars accumulated into something far more terrifying:
+Crossing those boundaries is considered a violation of the world's natural order. Every interdimensional intervention leaves invisible scars upon reality. Over countless ages, those scars accumulat[...]
 
 **The Void**.
 
-The Void is neither a god nor a living creature. It is the inevitable consequence of reality collapsing under repeated violations of its own laws—a cosmic phenomenon that reduces everything to absolute **Zero**.
+The Void is neither a god nor a living creature. It is the inevitable consequence of reality collapsing under repeated violations of its own laws—a cosmic phenomenon that reduces everything to a[...]
 
 ---
 
@@ -166,13 +166,13 @@ No one knows whether he is a prisoner, a guardian, or something even older than 
 
 ---
 
-## The Twilight Troupe
+## Circus of the Twilight
 
-From the east travels a legendary wandering circus known as the **Twilight Troupe**.
+From the east travels a legendary wandering circus known as the **Circus of the Twilight**.
 
 Unlike ordinary performers, they represent the very concept of **Infinity**.
 
-If the Void symbolizes absolute Zero—the inevitable end of all existence—then the Twilight Troupe embodies limitless possibility, imagination, creativity, and evolution.
+If the Void symbolizes absolute Zero—the inevitable end of all existence—then the Circus of the Twilight embodies limitless possibility, imagination, creativity, and evolution.
 
 Nothing is impossible within their performances.
 
@@ -190,7 +190,7 @@ They do not oppose the laws of the world through force.
 
 They transcend them through imagination.
 
-Where the Void erases all possibilities, the Twilight Troupe creates infinite new ones.
+Where the Void erases all possibilities, the Circus of the Twilight creates infinite new ones.
 
 ---
 
@@ -211,4 +211,3 @@ Each represents a different answer to the fate of reality.
 Each believes itself to be the future of the world.
 
 Only one can remain when the final curtain falls.
-
