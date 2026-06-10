@@ -2,7 +2,8 @@
 
 <img width="495" height="713" alt="image" src="https://github.com/user-attachments/assets/0d67a2f5-b947-45c2-93c4-9b8b274151dd" />
 
-<img width="989" height="1591" alt="image" src="https://github.com/user-attachments/assets/aaea3000-0f8c-4f4b-8bab-edec91006f2d" />
+<img width="471" height="715" alt="image" src="https://github.com/user-attachments/assets/0ec4757e-550c-43e8-b670-68b5ea5b699b" />
+
 
 
 ## 基本信息
