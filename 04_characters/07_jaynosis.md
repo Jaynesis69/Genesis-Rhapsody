@@ -1,6 +1,9 @@
 # 【007】Jaynosis（杰诺西斯）
 <img width="689" height="1049" alt="image" src="https://github.com/user-attachments/assets/ad6b33b6-adfc-4420-b9ba-424d08ae39eb" />
 
+<img width="547" height="849" alt="image" src="https://github.com/user-attachments/assets/96b72c7f-0645-4065-ab4c-72617011fcd6" />
+
+
 ## 基本信息
 
 | 属性 | 内容 |
