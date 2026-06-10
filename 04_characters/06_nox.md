@@ -1,7 +1,8 @@
 # 【006】NOX（诺斯）
 <img width="570" height="950" alt="image" src="https://github.com/user-attachments/assets/11c65dfc-4d57-4104-b98a-50f78dcde9f4" />
 
-<img width="457" height="765" alt="image" src="https://github.com/user-attachments/assets/57aa7095-e6b8-4336-a8c9-ba77d6ec31fd" />
+<img width="714" height="1083" alt="image" src="https://github.com/user-attachments/assets/612b50b0-e3c8-4b34-bec7-955e74872424" />
+
 
 ## 基本信息
 
