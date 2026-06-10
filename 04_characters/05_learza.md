@@ -1,5 +1,6 @@
 # 【005】Learza（拉爾札）
-<img width="639" height="976" alt="image" src="https://github.com/user-attachments/assets/01c89eb3-095e-4468-baca-55eeeded88a3" />
+<img width="610" height="908" alt="image" src="https://github.com/user-attachments/assets/f94f8e20-7f0d-4f7d-b1a3-e38a4c95dbb7" />
+
 
 <img width="714" height="893" alt="image" src="https://github.com/user-attachments/assets/609af11e-56f1-44bf-a31e-1935e08636d4" />
 
