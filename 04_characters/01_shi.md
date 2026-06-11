@@ -1,9 +1,6 @@
 # 【001】Shi（时）
 <img width="610" height="970" alt="image" src="https://github.com/user-attachments/assets/9e2938d1-4870-4487-8e10-d3c08dbc68ee" />
 
-<img width="574" height="863" alt="image" src="https://github.com/user-attachments/assets/f0f2f8ae-7c81-44ea-b15a-d0eaed36b1ea" />
-
-
 
 ## 基本信息
 
