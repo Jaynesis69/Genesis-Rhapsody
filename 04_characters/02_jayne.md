@@ -1,5 +1,9 @@
 # 【002】Jayne（真）
 
+<img width="1086" height="1448" alt="8e8f10a1-6e6a-4de8-8ae6-a7b1e8f7ea6a" src="https://github.com/user-attachments/assets/66d7cd8d-80bb-4a03-ac27-4cb178d21cba" />
+
+
+
 ## 基本信息
 
 | 属性 | 内容 |
