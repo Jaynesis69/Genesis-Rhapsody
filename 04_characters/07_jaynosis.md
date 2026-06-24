@@ -1,7 +1,8 @@
 # 【007】Jaynosis（杰诺西斯）
-<img width="689" height="1049" alt="image" src="https://github.com/user-attachments/assets/ad6b33b6-adfc-4420-b9ba-424d08ae39eb" />
 
-<img width="547" height="849" alt="image" src="https://github.com/user-attachments/assets/96b72c7f-0645-4065-ab4c-72617011fcd6" />
+<img width="1024" height="1536" alt="76b439d2-77d2-43c9-bb82-6cfed208b4f2" src="https://github.com/user-attachments/assets/34fd8ed9-06aa-4a67-a966-be8dc02af8f2" />
+
+<img width="971" height="1619" alt="Jaynosis" src="https://github.com/user-attachments/assets/2018c83e-319a-41d0-859b-6826a94cc130" />
 
 
 ## 基本信息
