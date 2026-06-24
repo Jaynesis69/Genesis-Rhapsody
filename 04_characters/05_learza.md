@@ -1,7 +1,7 @@
 # 【005】Learza（拉爾札）
-<img width="596" height="873" alt="image" src="https://github.com/user-attachments/assets/d9ee4c4c-f3af-4120-92ce-eb84c4961c14" />
 
-<img width="633" height="854" alt="image" src="https://github.com/user-attachments/assets/a88c5294-8576-455d-be93-c87461dca9cb" />
+<img width="1122" height="1402" alt="Learza" src="https://github.com/user-attachments/assets/d279968a-d482-4b51-ad8f-29f54e4c7aa2" />
+
 
 
 ## 基本信息
