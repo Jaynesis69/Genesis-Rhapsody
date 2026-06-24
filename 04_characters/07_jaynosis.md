@@ -2,8 +2,6 @@
 
 <img width="1024" height="1536" alt="76b439d2-77d2-43c9-bb82-6cfed208b4f2" src="https://github.com/user-attachments/assets/34fd8ed9-06aa-4a67-a966-be8dc02af8f2" />
 
-<img width="971" height="1619" alt="Jaynosis" src="https://github.com/user-attachments/assets/2018c83e-319a-41d0-859b-6826a94cc130" />
-
 
 ## 基本信息
 
