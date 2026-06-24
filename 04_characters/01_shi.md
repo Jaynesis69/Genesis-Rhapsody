@@ -1,6 +1,7 @@
 # 【001】Shi（时）
 
-<img width="1086" height="1448" alt="Clavis" src="https://github.com/user-attachments/assets/a4340400-0aba-449b-bc85-b33de263632a" />
+<img width="1122" height="1446" alt="cb928445-f1e1-452a-a133-b3074e26f012" src="https://github.com/user-attachments/assets/1fa407d5-784d-4241-80bf-e3cbdfe14b7f" />
+
 
 
 
