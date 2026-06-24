@@ -1,8 +1,7 @@
 # 【004】Leon（莱昂）
 
-<img width="495" height="713" alt="image" src="https://github.com/user-attachments/assets/0d67a2f5-b947-45c2-93c4-9b8b274151dd" />
+<img width="1122" height="1402" alt="36298732-78b2-4561-95b6-a1ac78bd5b6f" src="https://github.com/user-attachments/assets/4ce9980f-2865-4f7b-bb65-5f07e743e071" />
 
-<img width="471" height="715" alt="image" src="https://github.com/user-attachments/assets/0ec4757e-550c-43e8-b670-68b5ea5b699b" />
 
 
 
