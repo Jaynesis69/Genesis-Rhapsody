@@ -1,5 +1,7 @@
 # 【013】Victor（维克多）
-<img width="569" height="918" alt="image" src="https://github.com/user-attachments/assets/1d947562-17bf-4198-8cf0-63f145b393bd" />
+
+<img width="1086" height="1448" alt="5c243ec6-5c50-4b0d-9480-a4e00a09241a" src="https://github.com/user-attachments/assets/65f18a34-fab0-4bb9-b4c5-49e6806b156e" />
+
 
 ## 基本信息
 
