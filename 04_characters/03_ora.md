@@ -1,4 +1,5 @@
 # 【003】Ora（欧拉）
+<img width="1024" height="1536" alt="a396709a-8933-45bb-93f4-48201b39609c" src="https://github.com/user-attachments/assets/22bbe261-f730-419e-8cff-f7f8b935143e" />
 
 ## 基本信息
 
